@@ -1,0 +1,21 @@
+.container {
+    width: 30%;
+    margin-top: 9%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+    padding: 40px;
+}
+
+button {
+    width: 48%;
+}
+
+body {
+    background-image: url(images/backround.jpg) ;
+    background-size: cover;
+    background-position: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    box-shadow: 0 0 10px 5px #2F4F4F;
+}
